@@ -41,8 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/victara/proprietary/vendor/bin/radish:system/vendor/bin/radish \
     vendor/motorola/victara/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/motorola/victara/proprietary/vendor/bin/stm401:system/vendor/bin/stm401 \
-    vendor/motorola/victara/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
-    vendor/motorola/victara/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
+     vendor/motorola/victara/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
     vendor/motorola/victara/proprietary/etc/acdbdata/victara/victara_Bluetooth_cal.acdb:system/etc/acdbdata/victara/victara_Bluetooth_cal.acdb \
     vendor/motorola/victara/proprietary/etc/acdbdata/victara/victara_General_cal.acdb:system/etc/acdbdata/victara/victara_General_cal.acdb \
     vendor/motorola/victara/proprietary/etc/acdbdata/victara/victara_Global_cal.acdb:system/etc/acdbdata/victara/victara_Global_cal.acdb \
