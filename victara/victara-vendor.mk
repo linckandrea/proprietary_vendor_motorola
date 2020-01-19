@@ -89,7 +89,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/victara/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/motorola/victara/proprietary/etc/quipc.conf:system/etc/quipc.conf \
     vendor/motorola/victara/proprietary/etc/sap.conf:system/etc/sap.conf \
-    vendor/motorola/victara/proprietary/lib/drm/libfwdlockengine.so:system/lib/drm/libfwdlockengine.so \
     vendor/motorola/victara/proprietary/lib/hw/camera.vendor.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
     vendor/motorola/victara/proprietary/lib/hw/sensorhub.msm8974.so:system/lib/hw/sensorhub.msm8974.so \
     vendor/motorola/victara/proprietary/lib/hw/sensors.msm8974.so:system/lib/hw/sensors.msm8974.so \
